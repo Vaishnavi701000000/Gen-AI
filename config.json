@@ -1,0 +1,46 @@
+[
+  {
+    "tenant_id": "divya",
+    "db_username": "root",
+    "db_pwd": "Ramyam01",
+    "port": "3306",
+    "host": "localhost",
+    "db_name": "config_db",
+    "created_date": "2025-06-27T07:37:08.353Z",
+    "modified_date": "2025-06-27T07:37:08.353Z",
+    "isActive": false
+  },
+  {
+    "tenant_id": "divya",
+    "db_username": "root",
+    "db_pwd": "12345",
+    "port": "3306",
+    "host": "localhost",
+    "db_name": "config_db",
+    "created_date": "2025-06-27T07:44:52.855Z",
+    "modified_date": "2025-06-27T07:44:52.855Z",
+    "isActive": false
+  },
+  {
+    "tenant_id": "maya",
+    "db_username": "root",
+    "db_pwd": "12345",
+    "port": "3306",
+    "host": "localhost",
+    "db_name": "config_db",
+    "created_date": "2025-06-27T07:55:38.754Z",
+    "modified_date": "2025-06-27T07:55:38.754Z",
+    "isActive": false
+  },
+  {
+    "tenant_id": "neha",
+    "db_username": "root",
+    "db_pwd": "12345",
+    "port": "3306",
+    "host": "localhost",
+    "db_name": "config_db",
+    "created_date": "2025-06-27T19:27:54.109Z",
+    "modified_date": "2025-06-27T19:27:54.109Z",
+    "isActive": false
+  }
+]
