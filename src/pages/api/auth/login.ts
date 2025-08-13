@@ -132,7 +132,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   try {
     // ✅ Make sure to use correct DB
     const [rows]: any = await pool.query(
-      "SELECT * FROM quickquery_auth.users WHERE userId = ? AND password = ?",
+      `SELECT * FROM ${process.env.MYSQLDATABASE}.users WHERE userId = ? AND password = ?`,
       [userId, hashedPassword]
     );
 
